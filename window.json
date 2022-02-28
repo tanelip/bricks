@@ -1,0 +1,60 @@
+{
+   "window":
+   {
+      "misc":
+      {
+         "enable_close_button": "0"
+      }
+   },
+   "window.#title_bar":
+   {
+      "misc":
+      {
+         "text_horiz_alignment": "center"
+      }
+   },
+   "#arrow_reduce":
+   {
+     "images":
+     {
+       "normal_image":
+       {
+          "path": "arrowLeft.png"
+       }
+     }
+   },
+   "#arrow_grow":
+   {
+     "images":
+     {
+       "normal_image":
+       {
+          "path": "arrowRight.png"
+       }
+     }
+   },
+   "#button_layout":
+   {
+     "misc":
+     {
+       "border_width": "0",
+       "shadow_width": "0"
+     }
+   },
+   "#bricks_label":
+   {
+     "font":
+        {
+            "name": "montserrat",
+            "size": "20",
+            "bold": "0",
+            "italic": "0"
+        },
+         "misc":
+         {
+             "text_shadow": "1",
+             "text_shadow_size": "1",
+             "text_shadow_offset": "0,0"
+         }
+     }
+}
